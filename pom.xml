@@ -12,8 +12,8 @@
 	<artifactId>biblion</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
-	<description/>
-	<url/>
+	<description>Library System as an example of programming best practices</description>
+	<url>https://github.com/snuknu/biblion</url>
 	<licenses>
 		<license/>
 	</licenses>
